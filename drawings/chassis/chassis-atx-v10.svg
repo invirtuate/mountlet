@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63.852001cm"
+   height="54.918999cm"
+   viewBox="0 0 638.52001 549.18999"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="chassis-atx-v10.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style1366">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="881.99998"
+     inkscape:cy="-79.999998"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7"
+     showguides="true"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1297"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect8137"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Sans 10"
+       precision="2"
+       fix_overlaps="0"
+       position="5"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.25"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist=""
+       active_projection="false"
+       whitelist="false"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect8095"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Sans 10"
+       precision="2"
+       fix_overlaps="0"
+       position="5"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.25"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist=""
+       active_projection="false"
+       whitelist="false"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <linearGradient
+       id="linearGradient3343"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3341" />
+    </linearGradient>
+    <marker
+       id="ArrowDINout-start"
+       class="ellipse1387 path-effect8137 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-start"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 -16,2.11 -16,0.5 -26,0.5 -26,-0.5 -16,-0.5 -16,-2.11 z"
+         class="ellipse1387 path-effect8137 measure-arrow"
+         id="ArrowDINout-start_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDINout-end"
+       class="ellipse1387 path-effect8137 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-end"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 16,-2.11 16,-0.5 26,-0.5 26,0.5 16,0.5 16,2.11 z"
+         class="ellipse1387 path-effect8137 measure-arrow"
+         id="ArrowDINout-end_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="case"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="flip-flap"
+       transform="translate(0.86478418,11.540403)">
+      <path
+         id="rect490"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.575629;stroke-miterlimit:0"
+         inkscape:label="fold-tab-bottom"
+         d="M 163.0849 3.8095644 C 162.52692 3.8095644 162.07772 4.2587812 162.07772 4.8167381 L 162.07772 12.802297 C 162.07772 13.360276 162.52692 13.809471 163.0849 13.809471 L 124.57769 13.809471 L 123.82786 15.309638 L 123.07804 16.809288 L 122.3277 15.309638 L 122.24656 15.146857 C 111.36757 26.12986 99.605821 39.390548 88.326671 51.612848 L 88.326671 343.80948 L 122.07758 343.80948 L 122.57781 342.80954 L 123.07804 341.80961 L 123.57775 342.80954 L 124.07798 343.80948 L 253.55328 343.80948 L 566.07787 343.80948 L 566.57758 342.80954 L 567.07781 341.80961 L 567.57804 342.80954 L 568.07775 343.80948 L 601.82866 343.80948 L 601.82866 51.612848 C 590.43413 39.265585 578.54818 25.859408 567.57597 14.811477 L 567.07833 15.807798 L 566.5781 14.80786 L 566.07942 13.809471 L 527.07043 13.809471 C 527.62841 13.809471 528.07761 13.360276 528.07761 12.802297 L 528.07761 4.8167381 C 528.07761 4.2587812 527.62841 3.8095644 527.07043 3.8095644 L 163.0849 3.8095644 z M 138.07816 57.446601 A 1 1 0 0 1 139.0781 58.44654 A 1 1 0 0 1 138.07816 59.446479 A 1 1 0 0 1 137.07822 58.44654 A 1 1 0 0 1 138.07816 57.446601 z M 220.40595 57.446601 A 1 1 0 0 1 221.4064 58.44654 A 1 1 0 0 1 220.40595 59.446479 A 1 1 0 0 1 219.40601 58.44654 A 1 1 0 0 1 220.40595 57.446601 z M 254.92839 57.446601 A 1 1 0 0 1 255.92833 58.44654 A 1 1 0 0 1 254.92839 59.446479 A 1 1 0 0 1 253.92845 58.44654 A 1 1 0 0 1 254.92839 57.446601 z M 567.07781 59.139004 L 567.07781 60.138943 L 567.07781 61.138882 L 566.07787 60.639171 L 565.07793 60.138943 L 566.07787 59.638715 L 567.07781 59.139004 z M 261.07788 60.149795 L 262.07782 60.149795 L 263.07776 60.149795 L 262.57805 61.149734 L 262.07782 62.149673 L 261.57759 61.149734 L 261.07788 60.149795 z M 322.13462 60.149795 L 323.13456 60.149795 L 324.1345 60.149795 L 323.63479 61.149734 L 323.13456 62.149673 L 322.63433 61.149734 L 322.13462 60.149795 z M 275.5602 70.298529 A 1 1 0 0 1 276.56014 71.298468 A 1 1 0 0 1 275.5602 72.298407 A 1 1 0 0 1 274.56026 71.298468 A 1 1 0 0 1 275.5602 70.298529 z M 354.45823 70.298529 A 1 1 0 0 1 355.45869 71.298468 A 1 1 0 0 1 354.45823 72.298407 A 1 1 0 0 1 353.45829 71.298468 A 1 1 0 0 1 354.45823 70.298529 z M 400.27042 70.298529 A 1 1 0 0 1 401.27036 71.298468 A 1 1 0 0 1 400.27042 72.298407 A 1 1 0 0 1 399.27048 71.298468 A 1 1 0 0 1 400.27042 70.298529 z M 558.06699 93.132794 A 1 1 0 0 1 559.06693 94.132733 A 1 1 0 0 1 558.06699 95.132672 A 1 1 0 0 1 557.06705 94.132733 A 1 1 0 0 1 558.06699 93.132794 z M 138.07816 118.16279 A 1 1 0 0 1 139.0781 119.16273 A 1 1 0 0 1 138.07816 120.16267 A 1 1 0 0 1 137.07822 119.16273 A 1 1 0 0 1 138.07816 118.16279 z M 220.40595 118.16279 A 1 1 0 0 1 221.4064 119.16273 A 1 1 0 0 1 220.40595 120.16267 A 1 1 0 0 1 219.40601 119.16273 A 1 1 0 0 1 220.40595 118.16279 z M 254.92839 118.16279 A 1 1 0 0 1 255.92833 119.16273 A 1 1 0 0 1 254.92839 120.16267 A 1 1 0 0 1 253.92845 119.16273 A 1 1 0 0 1 254.92839 118.16279 z M 565.57764 180.80961 L 567.07781 180.80961 L 568.57798 180.80961 L 567.82764 182.30926 L 567.07781 183.80943 L 566.32799 182.30926 L 565.57764 180.80961 z M 275.5602 225.24256 A 1 1 0 0 1 276.56014 226.2425 A 1 1 0 0 1 275.5602 227.24244 A 1 1 0 0 1 274.56026 226.2425 A 1 1 0 0 1 275.5602 225.24256 z M 334.09772 225.24256 A 1 1 0 0 1 335.09765 226.2425 A 1 1 0 0 1 334.09772 227.24244 A 1 1 0 0 1 333.09778 226.2425 A 1 1 0 0 1 334.09772 225.24256 z M 354.45823 225.24256 A 1 1 0 0 1 355.45869 226.2425 A 1 1 0 0 1 354.45823 227.24244 A 1 1 0 0 1 353.45829 226.2425 A 1 1 0 0 1 354.45823 225.24256 z M 400.27042 225.24256 A 1 1 0 0 1 401.27036 226.2425 A 1 1 0 0 1 400.27042 227.24244 A 1 1 0 0 1 399.27048 226.2425 A 1 1 0 0 1 400.27042 225.24256 z M 558.06699 225.24256 A 1 1 0 0 1 559.06693 226.2425 A 1 1 0 0 1 558.06699 227.24244 A 1 1 0 0 1 557.06705 226.2425 A 1 1 0 0 1 558.06699 225.24256 z M 275.5602 297.56838 A 1 1 0 0 1 276.56014 298.56832 A 1 1 0 0 1 275.5602 299.56826 A 1 1 0 0 1 274.56026 298.56832 A 1 1 0 0 1 275.5602 297.56838 z M 400.27042 297.56838 A 1 1 0 0 1 401.27036 298.56832 A 1 1 0 0 1 400.27042 299.56826 A 1 1 0 0 1 399.27048 298.56832 A 1 1 0 0 1 400.27042 297.56838 z M 558.06699 297.56838 A 1 1 0 0 1 559.06693 298.56832 A 1 1 0 0 1 558.06699 299.56826 A 1 1 0 0 1 557.06705 298.56832 A 1 1 0 0 1 558.06699 297.56838 z M 262.07782 303.80934 L 262.57805 304.80928 L 263.07776 305.80922 L 262.07782 305.80922 L 261.07788 305.80922 L 261.57759 304.80928 L 262.07782 303.80934 z M 323.13456 303.80934 L 323.63479 304.80928 L 324.1345 305.80922 L 323.13456 305.80922 L 322.13462 305.80922 L 322.63433 304.80928 L 323.13456 303.80934 z M 123.07804 304.53074 L 124.07798 305.03097 L 125.07792 305.53068 L 124.07798 306.03091 L 123.07804 306.53062 L 123.07804 305.53068 L 123.07804 304.53074 z M 567.07781 304.53074 L 567.07781 305.53068 L 567.07781 306.53062 L 566.07787 306.03091 L 565.07793 305.53068 L 566.07787 305.03097 L 567.07781 304.53074 z M 91.325971 337.80933 A 1 1 0 0 1 92.326427 338.80979 A 1 1 0 0 1 91.325971 339.80973 A 1 1 0 0 1 90.326032 338.80979 A 1 1 0 0 1 91.325971 337.80933 z M 116.07743 337.80933 A 1 1 0 0 1 117.07789 338.80979 A 1 1 0 0 1 116.07743 339.80973 A 1 1 0 0 1 115.07749 338.80979 A 1 1 0 0 1 116.07743 337.80933 z M 175.07796 337.80933 A 1 1 0 0 1 176.07842 338.80979 A 1 1 0 0 1 175.07796 339.80973 A 1 1 0 0 1 174.07803 338.80979 A 1 1 0 0 1 175.07796 337.80933 z M 345.07792 337.80933 A 1 1 0 0 1 346.07786 338.80979 A 1 1 0 0 1 345.07792 339.80973 A 1 1 0 0 1 344.07799 338.80979 A 1 1 0 0 1 345.07792 337.80933 z M 515.0784 337.80933 A 1 1 0 0 1 516.07834 338.80979 A 1 1 0 0 1 515.0784 339.80973 A 1 1 0 0 1 514.07794 338.80979 A 1 1 0 0 1 515.0784 337.80933 z M 574.77243 337.80933 A 1 1 0 0 1 575.77237 338.80979 A 1 1 0 0 1 574.77243 339.80973 A 1 1 0 0 1 573.77249 338.80979 A 1 1 0 0 1 574.77243 337.80933 z M 599.52389 337.80933 A 1 1 0 0 1 600.52435 338.80979 A 1 1 0 0 1 599.52389 339.80973 A 1 1 0 0 1 598.52395 338.80979 A 1 1 0 0 1 599.52389 337.80933 z " />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g373"
+       inkscape:label="left-wall"
+       transform="translate(15.688985,0.60761864)" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="right-wall"
+       transform="translate(-10.229321,0.60767864)" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="chassis"
+       transform="translate(0.19310163)">
+      <g
+         inkscape:groupmode="layer"
+         id="layer9"
+         inkscape:label="matx-hole-pattern"
+         style="display:inline"
+         transform="translate(-0.5)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer8"
+         inkscape:label="atx-hole-pattern"
+         style="display:inline"
+         transform="translate(-0.5)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer11"
+         inkscape:label="hdd-hole-pattern"
+         style="display:inline"
+         transform="translate(4.8078984)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer10"
+         inkscape:label="ssd-hole-pattern"
+         style="display:inline"
+         transform="translate(4.8078984)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer1"
+         inkscape:label="bend-holes"
+         style="display:inline"
+         transform="translate(-0.19310163)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="mobo-guide-holes"
+         style="display:inline"
+         transform="translate(-0.19310163)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.352999;stroke-miterlimit:0;stroke-dasharray:0.352999, 0.352999"
+         d="M 123.74951,15.960104 V 377.80605"
+         id="path364" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.352999;stroke-miterlimit:0;stroke-dasharray:0.352999, 0.352999"
+         d="M 567.74951,12.45652 V 374.30247"
+         id="path364-3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.352999;stroke-miterlimit:0;stroke-dasharray:0.352999, 0.352999"
+         d="M 156.26595,25.1765 H 536.1372"
+         id="path542" />
+    </g>
+  </g>
+</svg>

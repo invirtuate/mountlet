@@ -26,11 +26,9 @@ Mountlet attempts to achieve this goal by focusing on the following:
 An introduction to the project can be found on the [Invirtuate](https://invirtuate.com/solutions/mountlet) page. Living docs are in the `docs/` folder as markdown.
 
 ## Usage
-Exported drawings (ready to use with a fabricator) are saved to `exported/<tool_or_fabricator>/`.
+Drawings are saved to `drawings/<type>/`, these are the "raw" form of the drawing meant to be edited or updated with [InkScape](https://inkscape.org/).
 
-To use these designs you must fabricate them yourself either by using a fabricator or your own shop.
-
-To edit the designs open them in [InkScape](https://inkscape.org/).
+Exported drawings are ready to be used with a tool or fabricator. These are saved to `exported/<tool_or_fabricator>/`.
 
 ## Contribution rules
 
